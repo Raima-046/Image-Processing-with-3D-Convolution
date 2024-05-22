@@ -1,5 +1,3 @@
-# Image-Processing-with-3D-Convolution
-
 # 3D Convolution Image Processing
 
 This project implements 3D convolution operations using C++ and OpenCV. It includes functions for blurring, edge detection, and feature extraction on 3D grayscale images, with careful handling of image borders using zero-padding.
