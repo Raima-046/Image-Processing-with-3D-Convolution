@@ -62,6 +62,14 @@ Download and run the executables
 - Image Saving
 
 
+## Screenshots
+
+![Blurred Image](https://github.com/Raima-046/Image-Processing-with-3D-Convolution/assets/118756849/b9d001ea-8429-4b79-b902-19d612064538)
+![BlurredImage](https://github.com/Raima-046/Image-Processing-with-3D-Convolution/assets/118756849/432b6494-4f64-4204-a54f-6c7020b11be7)
+![EdgeDetectedImage](https://github.com/Raima-046/Image-Processing-with-3D-Convolution/assets/118756849/f51f09ea-3e0f-4b14-9428-be4896aa6d5e)
+![FeatureExtractedImage](https://github.com/Raima-046/Image-Processing-with-3D-Convolution/assets/118756849/f90f9792-5062-43ee-806e-7868058714d0)
+
+
 ## Contributing
 
 Contributions are always welcome!
