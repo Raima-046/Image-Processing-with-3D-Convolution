@@ -3,11 +3,6 @@
 #include <opencv2/highgui.hpp>
 #include <iostream>
 
-//RIAM TARIQ
-//22I-1145
-//SECTION C
-//QUESTION 03 HEADER
-
 using namespace cv;
 using namespace std;
 
