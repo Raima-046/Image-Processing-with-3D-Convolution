@@ -65,10 +65,13 @@ Download and run the executables
 ## Screenshots
 
 ***Blurred Image:***
+
 ![Blurred Image](https://github.com/Raima-046/Image-Processing-with-3D-Convolution/assets/118756849/b9d001ea-8429-4b79-b902-19d612064538)
 ***Edge Detected Image:***
+
 ![EdgeDetectedImage](https://github.com/Raima-046/Image-Processing-with-3D-Convolution/assets/118756849/f51f09ea-3e0f-4b14-9428-be4896aa6d5e)
 ***Feature Extracted Image:***
+
 ![FeatureExtractedImage](https://github.com/Raima-046/Image-Processing-with-3D-Convolution/assets/118756849/f90f9792-5062-43ee-806e-7868058714d0)
 
 
