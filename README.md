@@ -25,7 +25,7 @@ Download and run the executables
 ## Usage/Example
 
 1. **Load a 3D Image:**
-   - Ensure your 3D grayscale image is in the correct format and located in the project directory.
+   - Ensure your 3D grayscale image is in the correct format (TIFF file) and located in the project directory.
    - Use the provided function in your code to load the image. For example:
      ```cpp
      // Example of loading a 3D image
